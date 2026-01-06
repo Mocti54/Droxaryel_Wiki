@@ -14,3 +14,6 @@ Durante milenios, cumplió fielmente su propósito, hasta el día en que fue tra
 Han transcurrido 2554 estofas desde la desaparición de Graryna. Muchos asumen su muerte, otros aún le veneran esperando a que logre liberarse y otros empiezan a resentirla por su ausencia.
 
 A inicios de la estrofa 2554, su aparición ha sido cada vez más común. Muchos la oyen aún cantar, otros la escuchan llorando encadenada y varios la ven muerta a los pies de su gemela.
+
+# Aspecto
+![[Graryna.png]]

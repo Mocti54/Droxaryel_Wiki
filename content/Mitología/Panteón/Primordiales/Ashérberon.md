@@ -12,3 +12,5 @@ Con el tiempo, la oscuridad la corrompió. Olvidó su misión, envidió a su her
 # Hoy
 
 Ashérberon, la diosa oscura de la muerte y la corrupción, es temida en todo [[Everthalas|Everthalas]] y venerada en susurros por algunos enanos insurrectos. Para la mayoría, es la sombra que devoró a [[Graryna]], la madre del [[El Ejército Maldito]], el horror que espera su oportunidad para regresar.
+# Aspecto
+![[Ashérberon.png]]

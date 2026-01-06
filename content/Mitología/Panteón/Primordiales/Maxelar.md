@@ -19,3 +19,6 @@ Según la doctrina imperial, Maxelar no actúa con impulsos ni intervenciones ca
 Por ello, no camina entre los hombres, pero **su voluntad se manifiesta** en el orden que sostiene a [[Everthalas]], en la ley que rige el Imperio, y en la luz que aún emana desde la cúspide de la torre [[Bacilys]].
 
 Se enseña que su voz resuena a través de [[Taylena]], su mano derecha, enviada a identificar a las almas puras dignas de portar la chispa divina. Así nacen los [[Aasimar]], guerreros consagrados que encarnan el ideal celestial de Maxelar: equilibrio, justicia y devoción inquebrantable.
+
+# Aspecto
+![[Maxelar.png]]
