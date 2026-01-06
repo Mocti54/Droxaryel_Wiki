@@ -1,6 +1,6 @@
-Droxaryel es un mundo de D&D inspirado en música cuyo nombre proviene mastereado por Octavio Mateos con mucho cariño para sus amigos.
+Droxaryel es el mundo de nuestra campaña de Dungeons and Dragons 5e - 2024
 
-Esta página funciona como Wiki mostrandole a los jugadores lo que ellos conocen del mundo
+Esta es una wiki por si llegan a tener un poco más de curiosidad en el lore de nuestra campaña.
 
-Y este texto es un test, para ver la disponibilidad y el funcionamiento de Obsidian, Quartz y GitHubPages
+Droxaryel fue hasta donde sabemos, el primer mundo habitado en el universo. Esto se debe a que los dioses intervinieron directamente en su creación. Para saber más, da click en -> [[El Origen del Droxaryel]] <- Wow, que buen tutorial!.
 ![[Droxaryel.png]]
